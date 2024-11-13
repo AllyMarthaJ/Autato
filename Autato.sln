@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autato", "Autato\Autato.csproj", "{2D601C5D-4AC5-495C-9726-BD2996B1A3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutatoLib", "AutatoLib\AutatoLib.csproj", "{C749A5AA-CFE4-4650-B82B-4A38012009A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutatoLib.Tests", "AutatoLib.Tests\AutatoLib.Tests.csproj", "{8346B818-3223-49E3-AA17-8916302CC101}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D601C5D-4AC5-495C-9726-BD2996B1A3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D601C5D-4AC5-495C-9726-BD2996B1A3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D601C5D-4AC5-495C-9726-BD2996B1A3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D601C5D-4AC5-495C-9726-BD2996B1A3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C749A5AA-CFE4-4650-B82B-4A38012009A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C749A5AA-CFE4-4650-B82B-4A38012009A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C749A5AA-CFE4-4650-B82B-4A38012009A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C749A5AA-CFE4-4650-B82B-4A38012009A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8346B818-3223-49E3-AA17-8916302CC101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8346B818-3223-49E3-AA17-8916302CC101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8346B818-3223-49E3-AA17-8916302CC101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8346B818-3223-49E3-AA17-8916302CC101}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
